@@ -1,6 +1,7 @@
 {
-  "explicit key": "",
   "block key\n": [
-    "one", "two"
-  ]
+    "one",
+    "two"
+  ],
+  "explicit key": null
 }

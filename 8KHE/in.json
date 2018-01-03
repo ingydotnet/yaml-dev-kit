@@ -1,1 +1,7 @@
-{ "explicit key": "", "block key": ["one", "two"]}
+{
+  "block key\n": [
+    "one",
+    "two"
+  ],
+  "explicit key": null
+}
